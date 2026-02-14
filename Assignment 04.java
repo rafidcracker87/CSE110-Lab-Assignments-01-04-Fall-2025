@@ -27,6 +27,8 @@ public class lab_question_04_01{
     }
 }
 
+
+
 //Task 2
 import java.util.Scanner;
 public class lab_question_04_02{
@@ -73,6 +75,8 @@ public class lab_question_04_02{
     }
 }
 
+
+
 //Task 3
 import java.util.Scanner;
 public class lab_question_04_03{
@@ -107,6 +111,8 @@ public class lab_question_04_03{
         }
    }
 }
+
+
 
 //Task 4
 import java.util.Scanner;
@@ -161,4 +167,5 @@ public class lab_question_04_04{
             i++;
         }
     }
+
 }
