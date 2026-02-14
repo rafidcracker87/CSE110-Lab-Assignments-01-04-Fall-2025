@@ -11,6 +11,8 @@ public class Ques_1{
   }
 }
 
+
+
 //Task 2
 public class Ques_2{
   public static void main(String[] args){
@@ -20,6 +22,8 @@ public class Ques_2{
     System.out.println("Resultant output is:"+res);
   }
 }
+
+
 
 //Task 3
 public class Ques_3{
@@ -32,6 +36,8 @@ public class Ques_3{
   }
 }
 
+
+
 //Task 4
 public class Ques_4{
   public static void main(String[] args){
@@ -41,6 +47,8 @@ public class Ques_4{
     System.out.println("The diagonal distance is "+diagonal_value);
   }
 }
+
+
 
 //Task 5
 public class Ques_5{
@@ -61,3 +69,4 @@ public class Ques_5{
 
 
         
+
